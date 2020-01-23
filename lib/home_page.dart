@@ -37,6 +37,7 @@ class HomePage extends StatelessWidget {
         children: <Widget>[
           Card(
             margin:EdgeInsets.only(top: 20,left: 30,right: 30,bottom: 10),
+
             elevation: 3,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(20),
