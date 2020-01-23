@@ -36,7 +36,7 @@ class HomePage extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
           Card(
-            margin:EdgeInsets.only(top: 20,left: 20,right: 20,bottom: 10),
+            margin:EdgeInsets.only(top: 30,left: 20,right: 20,bottom: 10),
             elevation: 3,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(20),
